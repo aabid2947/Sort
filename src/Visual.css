@@ -1,0 +1,13 @@
+.Top-headeR{
+    /* border: 2px solid red; */
+    padding: 4px;
+    height: 6vh;
+    text-align: start;
+    color: beige;
+    font-size: 4vh;
+    font-weight: 500;
+    
+    background: linear-gradient(to right,
+    #b92b27, #1565c0);;
+    text-decoration: underline;
+}
